@@ -14,6 +14,12 @@
     <Description>Receive and handle firebase push notifications across Xamarin.iOS and Xamarin.Android</Description>
 
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/heylila/FirebasePushNotificationPlugin</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/heylila/FirebasePushNotificationPlugin</RepositoryUrl>
+    <Version>3.4.0</Version>
+    <PackageReleaseNotes>https://github.com/heylila/FirebasePushNotificationPlugin/releases</PackageReleaseNotes>
 
   </PropertyGroup>
 
